@@ -1,7 +1,7 @@
 # Email Spam Classifier
 
 ## Tech Stack
-- Libraries:- Pandas, NumPy, Sklearn, Streamlit
+- Libraries:- Pandas, NumPy, Sklearn, Streamlit, NLTK
 - Model:- Multinomial Naive Bayes
 
 ## Important Links
